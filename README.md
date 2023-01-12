@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/RafaelDaCosta2022">
+  <a href="https://github.com/rafaeldacosta2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelDaCosta2022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDaCosta2022&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
